@@ -45,14 +45,6 @@ def exit(*args):
     return 'Goodbye!'
 
 
-def goodbye(*args):
-    return 'Goodbye!'
-
-
-def close(*args):
-    return 'Goodbye!'
-
-
 def no_command(*args):
     return 'Unknown command, try again!'
 
