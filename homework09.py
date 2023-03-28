@@ -62,8 +62,8 @@ COMMANDS = {hello: 'hello',
             change: 'change',
             phone: 'phone',
             showall: 'show all',
-            goodbye: 'goodbye',
-            close: 'close',
+            exit: 'goodbye',
+            exit: 'close',
             exit: 'exit'
             }
 
